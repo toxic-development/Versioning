@@ -1,6 +1,5 @@
 {
-    "name": "@toxicdev/fivem2discord",
-    "author": "Toxic Dev <https://toxicdev.me>",
-    "private": false,
+    "name": "FiveM2Discord",
+    "description": "",
     "version": "0.0.5"
 }
